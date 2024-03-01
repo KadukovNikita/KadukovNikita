@@ -53,7 +53,7 @@
 
 - :mailbox: Мой почтовый адрес: nikitaets2016@gmail.com
 
-- :newspaper: Моё резюме: https://d.zaix.ru/EWHg.pdf
+- :newspaper: Моё резюме: http://d.zaix.ru/EZdq.pdf
   
 ---
 
